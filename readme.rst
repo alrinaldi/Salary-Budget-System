@@ -1,3 +1,15 @@
+############################
+What is Salary Budget System
+###########################
+
+Salary Budget System merupakan aplikasi untuk menghitung master budget gaji karyawan pada suatu perusahaan.
+
+*******************
+Release Information
+*******************
+
+
+
 ###################
 What is CodeIgniter
 ###################
